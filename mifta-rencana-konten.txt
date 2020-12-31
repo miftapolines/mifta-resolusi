@@ -4,6 +4,7 @@ RENCANA KONTEN MIFTA
   - self make up tutorial
   - street make up tutorial
 - cooking tutorial
-  - cooking makanan receh
+  - cooking makanan manis
+  - cooking makanan asin
 - vlogs
 - mukbang
