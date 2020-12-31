@@ -5,5 +5,6 @@ RENCANA KONTEN MIFTA
   - pro make up tutorial
 - membuat konten unboxing
 - cooking tutorial
+  - cooking makanan manis
 - vlogs
 - mukbang
